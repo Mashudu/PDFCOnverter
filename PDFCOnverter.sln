@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFCOnverter", "PDFCOnverter\PDFCOnverter.csproj", "{4E84C818-C33F-4221-8E11-A9C13A7C11DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E84C818-C33F-4221-8E11-A9C13A7C11DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E84C818-C33F-4221-8E11-A9C13A7C11DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E84C818-C33F-4221-8E11-A9C13A7C11DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E84C818-C33F-4221-8E11-A9C13A7C11DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {552E3D11-BA27-414A-8165-2367EBD34331}
+	EndGlobalSection
+EndGlobal

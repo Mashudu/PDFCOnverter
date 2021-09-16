@@ -1,0 +1,11 @@
+C:\Users\mulem001\source\repos\PDFCOnverter\PDFCOnverter\bin\Debug\PDFCOnverter.exe.config
+C:\Users\mulem001\source\repos\PDFCOnverter\PDFCOnverter\bin\Debug\PDFCOnverter.exe
+C:\Users\mulem001\source\repos\PDFCOnverter\PDFCOnverter\bin\Debug\PDFCOnverter.pdb
+C:\Users\mulem001\source\repos\PDFCOnverter\PDFCOnverter\bin\Debug\IronPdf.Assets.Rendering.Windows.dll
+C:\Users\mulem001\source\repos\PDFCOnverter\PDFCOnverter\bin\Debug\IronPdf.dll
+C:\Users\mulem001\source\repos\PDFCOnverter\PDFCOnverter\bin\Debug\IronPdf.xml
+C:\Users\mulem001\source\repos\PDFCOnverter\PDFCOnverter\obj\Debug\PDFCOnverter.csprojAssemblyReference.cache
+C:\Users\mulem001\source\repos\PDFCOnverter\PDFCOnverter\obj\Debug\PDFCOnverter.csproj.CoreCompileInputs.cache
+C:\Users\mulem001\source\repos\PDFCOnverter\PDFCOnverter\obj\Debug\PDFCOnverter.csproj.CopyComplete
+C:\Users\mulem001\source\repos\PDFCOnverter\PDFCOnverter\obj\Debug\PDFCOnverter.exe
+C:\Users\mulem001\source\repos\PDFCOnverter\PDFCOnverter\obj\Debug\PDFCOnverter.pdb
